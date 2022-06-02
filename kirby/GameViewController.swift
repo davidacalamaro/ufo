@@ -1,8 +1,6 @@
 //
 //  GameViewController.swift
-//  kirby
-//
-//  Created by david on 12/16/21.
+//  Created by david on 12/14/21.
 //
 
 import UIKit
